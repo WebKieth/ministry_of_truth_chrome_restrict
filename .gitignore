@@ -1,0 +1,8 @@
+*.cer
+*.pem
+*.der
+domains.json
+chrome-restricted-russian-ca.mobileconfig
+chrome-restricted-russian-ca.json
+chrome-restricted-russian-ca.reg
+__pycache__/
